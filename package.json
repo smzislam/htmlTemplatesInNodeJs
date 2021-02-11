@@ -1,0 +1,32 @@
+{
+  "name": "propertysalerentcmsinnodejs",
+  "version": "1.0.0",
+  "description": "Custom CMS, based on Property. Uses NodeJs with Express framework. Mongodb is used for data storage. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smzislam/PropertySaleRentCmsInNodejs.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "ExpressJs",
+    "MongoDB",
+    "NodeJs",
+    "CMS",
+    "CMS",
+    "with",
+    "nodeJs",
+    "expressJs",
+    "and",
+    "mongodb"
+  ],
+  "author": "Zahirul Islam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smzislam/PropertySaleRentCmsInNodejs/issues"
+  },
+  "homepage": "https://github.com/smzislam/PropertySaleRentCmsInNodejs#readme"
+}
