@@ -7,6 +7,7 @@ An example about how to use handlebars/HTML Templates in NodeJs with Express fra
     
     02. From your command prompt install nodemon  (npm install -g nodemon)
     
-    05. Start using it! npm start
+    
+    03. Start using it! npm start
     
   
