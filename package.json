@@ -1,0 +1,23 @@
+{
+  "name": "handlebarinnodejs",
+  "version": "1.0.0",
+  "description": "This is a simpe example of using handlebars/html views in NodeJs with express framework.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "Handlebars",
+    "Handlebar In NodeJs",
+    "Using HTML Templates in Nodejs",
+    "Dealing with HTML in NodeJs",
+    "Views in NodeJs",
+    "Handlebars with ExpressJs"
+  ],
+  "author": "Zahirul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0"
+  }
+}
